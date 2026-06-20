@@ -222,3 +222,4 @@ C:\Users\ADMIN\OneDrive\Tài liệu\Baithi\2526_2221050384_BaiThi\obj\Debug\ne
 C:\Users\ADMIN\OneDrive\Tài liệu\Baithi\2526_2221050384_BaiThi\obj\Debug\net10.0\2526_2221050384_BaiThi.pdb
 C:\Users\ADMIN\OneDrive\Tài liệu\Baithi\2526_2221050384_BaiThi\obj\Debug\net10.0\2526_2221050384_BaiThi.genruntimeconfig.cache
 C:\Users\ADMIN\OneDrive\Tài liệu\Baithi\2526_2221050384_BaiThi\obj\Debug\net10.0\ref\2526_2221050384_BaiThi.dll
+C:\Users\ADMIN\OneDrive\Tài liệu\Baithi\2526_2221050384_BaiThi\obj\Debug\net10.0\2526_2221050384_BaiThi.sourcelink.json
